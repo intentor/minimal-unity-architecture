@@ -16,3 +16,7 @@ All custom compomnents can be found at `Modules/Shared/Scripts/Runtime`:
 - `Pooling`: A pooling and spawner systems for spawing objects in a game.
 - `SceneManagement`: A simple scene loader to allow scene transitions from UI buttons.
 - `StateManagement`: A bootstrap StateMachine system able to handle states and transitions.
+
+## License
+
+Licensed under the [The MIT License (MIT)](http://opensource.org/licenses/MIT). Please see [LICENSE](LICENSE) for more information.
