@@ -6,16 +6,18 @@ Sample of a minimal Unity game architecture.
 
 ## How to Use
 
-Open `Modules/Menu/Menu.unity` to access the main menu.
+Open `Modules/Menu/Menu.unity` to access the main menu and start the game.
+
+It's a *Tag* game in which the player must run from the enemies while trying to move them through an arc.
 
 ## Custom Components
 
-All custom compomnents can be found at `Modules/Shared/Scripts/Runtime`:
+All custom components can be found at `Modules/Shared/Scripts/Runtime`:
 
-- `Events`: Event management through reusable `ScriptableObject` assets.
-- `Pooling`: A pooling and spawner systems for spawing objects in a game.
-- `SceneManagement`: A simple scene loader to allow scene transitions from UI buttons.
-- `StateManagement`: A bootstrap StateMachine system able to handle states and transitions.
+- `Events`: Event management through decoupled `ScriptableObject` assets.
+- `Pooling`: Pooling and spawner systems for spawing objects in a game.
+- `SceneManagement`: Scene loader to allow scene transitions from UI buttons.
+- `StateManagement`: Bootstrap State Machine system to handle states and transitions.
 
 ## License
 
