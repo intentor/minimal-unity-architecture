@@ -1,6 +1,6 @@
 # Minimal Unity Architecture
 
-Example of a minimal Unity game architecture.
+Sample of a minimal Unity game architecture.
 
 <img width="521" height="411" alt="Unity" src="https://github.com/user-attachments/assets/7ee08087-28e8-4412-9f84-9cea14087a70" />
 
